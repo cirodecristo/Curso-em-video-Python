@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.xml
+Python_vazio_download/python_exercicios/.idea/python_exercicios.iml
